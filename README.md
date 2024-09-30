@@ -87,7 +87,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgements
 
 - **Data Source**: [https://catalog.data.gov/dataset/crime-data-from-2020-to-present](link)
-
+- **Blog**: [https://medium.com/@malikshary09/la-crime-analysis-2020-2024-e5ca15858cba](link)
+- **Dataset:**: [https://www.kaggle.com/datasets/mlkshz/la-crime-dataset-clean/data](link)
 ---
 
 Feel free to reach out for any questions or feedback!
